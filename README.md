@@ -2,7 +2,7 @@
 
 #### _My first webpage I made, 5-28-19_
 
-#### By _**Alex Siegberg & Hannah**_
+#### By _**Alex Siegberg & Sam Cook**_
 
 ## Description
 
@@ -28,4 +28,4 @@ _HTML_
 
 *No license*
 
-Copyright (c) 2019 **_{Alex Siegberg & Hannah}_**
+Copyright (c) 2019 **_{Alex Siegberg & Sam Cook}_**
